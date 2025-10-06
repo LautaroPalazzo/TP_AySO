@@ -1,2 +1,3 @@
-# TP_AySO
-TP1 ARQ  Y SO 2025
+Alumno: Lautaro Nahuel Palazzo
+Division: 115-2
+Turno: mañana
